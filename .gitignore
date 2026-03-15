@@ -1,0 +1,102 @@
+# Dependencies
+node_modules/
+vendor/
+.pnp.*
+.yarn/install-state.gz
+
+# Build outputs
+dist/
+build/
+out/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+.venv/
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids/
+*.pid
+*.seed
+
+# Testing & coverage
+coverage/
+.nyc_output/
+.pytest_cache/
+htmlcov/
+
+# Misc
+*.tgz
+*.tar.gz
+*.zip
+.cache/
+tmp/
+temp/
+.tmp/
+
+results/
+data/real-large/
+data/cache/
+
+# Internal project management
+Planning/
+Progress/
+AGENTS.md
+REAL_DATA_SMOKE.md
+backend/README.md
+
+# Internal docs (knowledge bible, verification, proofs)
+docs/*.md
+docs/*.docx
+
+# Dev-only automation scripts
+scripts/capture-competition-video-pack.cjs
+scripts/explore-ui.js
+scripts/generate-video-script.js
+scripts/*video-script*.js
+scripts/observe-state.js
+scripts/screenshot-*.js
+scripts/refresh-progress-snapshot.sh
+
+# Build artifacts
+*.tsbuildinfo
+frontend/vite.config.d.ts
+frontend/vite.config.js
+
+# Probe / temp files
+zz_perm_probe.txt
+TEST_REPORT.md
+TESTING_SUMMARY.md
+test_screenshots/
+
+output/
+output/video-script/
+local-artifacts/
+documents/
+preparation/
+codebase/
+.codebase-snapshot-ignore
