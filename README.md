@@ -214,10 +214,9 @@ Use the catalog preview flow to inspect availability, then create a tracking job
 - `GET /api/v1/ingest/status`
 - `WS /ws/ingest-progress`
 
-## Screens
+## Product Demo
 
-![Casefile desktop](docs/assets/casefile-desktop.png)
-![Casefile mobile](docs/assets/casefile-mobile.png)
+[![Watch the product demo on YouTube](https://img.youtube.com/vi/mEkoP3VevdA/maxresdefault.jpg)](https://youtu.be/mEkoP3VevdA)
 
 ## Open Source License
 
