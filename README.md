@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vigilens.png" alt="VigiLens" width="200" />
+  <img src="vigilens.png" alt="VigiLens" />
 </p>
 
 # VigiLens
