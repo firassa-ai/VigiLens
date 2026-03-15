@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="vigilens.png" alt="VigiLens" width="200" />
+</p>
+
 # VigiLens
 
 VigiLens is an open-source pharmacovigilance platform for turning post-market adverse-event data into auditable drug-safety casefiles.
